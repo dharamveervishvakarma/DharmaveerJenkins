@@ -33,3 +33,4 @@ D:\.net core\sampleapplication2\productApi\obj\Debug\net8.0\productApi.genruntim
 D:\.net core\sampleapplication2\productApi\obj\Debug\net8.0\ref\productApi.dll
 D:\.net core\sampleapplication2\productApi\bin\Debug\net8.0\product.dll
 D:\.net core\sampleapplication2\productApi\bin\Debug\net8.0\product.pdb
+D:\.net core\sampleapplication2\productApi\obj\Debug\net8.0\productApi.sourcelink.json

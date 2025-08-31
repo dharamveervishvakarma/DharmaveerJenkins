@@ -9,3 +9,4 @@ D:\.net core\sampleapplication2\product\obj\Debug\net8.0\product.dll
 D:\.net core\sampleapplication2\product\obj\Debug\net8.0\refint\product.dll
 D:\.net core\sampleapplication2\product\obj\Debug\net8.0\product.pdb
 D:\.net core\sampleapplication2\product\obj\Debug\net8.0\ref\product.dll
+D:\.net core\sampleapplication2\product\obj\Debug\net8.0\product.sourcelink.json

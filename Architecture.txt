@@ -1,0 +1,4 @@
+CASE 1 -->.NET Core + xUnit + Console + Dockeries + GitHub + Jenkins  = CI CD(Localhost)
+CASE 2 -->.NET Core + xUnit + EF COare + Azure DB + GitHub + GitHub Action + Azure Web APP  = CI CD(Localhost)
+CASE 3 -->.NET Core + xUnit + EF COare + Azure DB + GitHub + Azure DevOps + Azure Web APP  = CI CD(Localhost)
+CASE 4 -->Azure Service Bus

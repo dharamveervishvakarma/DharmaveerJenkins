@@ -100,3 +100,4 @@ D:\.net core\sampleapplication2\product.Test\obj\Debug\net8.0\refint\product.Tes
 D:\.net core\sampleapplication2\product.Test\obj\Debug\net8.0\product.Test.pdb
 D:\.net core\sampleapplication2\product.Test\obj\Debug\net8.0\product.Test.genruntimeconfig.cache
 D:\.net core\sampleapplication2\product.Test\obj\Debug\net8.0\ref\product.Test.dll
+D:\.net core\sampleapplication2\product.Test\obj\Debug\net8.0\product.Test.sourcelink.json
